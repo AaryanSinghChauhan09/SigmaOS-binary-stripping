@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-binary-stripping"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS binary-stripping component - development"
+
+[lib]
+name = "binary_stripping"
+path = "src/lib.rs"
