@@ -3,7 +3,7 @@ name = "SigmaOS-binary-stripping"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "binary-stripping component"
+description = "Binary Stripping"
 upstream = []
 
 [contract]
